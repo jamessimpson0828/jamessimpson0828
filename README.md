@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java, and Spring.**
 
-- 🤝 I’m looking for help with [Abuddhists - Online Buddhism Platform](https://abuddhists.com/)
-
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01218f806fbeaec7c4](https://www.upwork.com/freelancers/~01218f806fbeaec7c4)
 
 - 💬 Ask me about **Node, Express, React, Angular, and Vue.**
