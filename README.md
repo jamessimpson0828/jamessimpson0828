@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java, and Spring.**
 
-- 👯 I’m looking to collaborate on [Anytime Estimate - Web Application](https://anytimeestimate.com/)
-
 - 🤝 I’m looking for help with [Abuddhists - Online Buddhism Platform](https://abuddhists.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01218f806fbeaec7c4](https://www.upwork.com/freelancers/~01218f806fbeaec7c4)
