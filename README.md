@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Middleforkfun - Outdoor Activities Showcase](https://www.middleforkfun.com/)
 
-- 🌱 I’m currently learning **Java, and Spring.**
+- 🌱 I’m currently learning **Java, and Spring - Middle level**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01218f806fbeaec7c4](https://www.upwork.com/freelancers/~01218f806fbeaec7c4)
 
