@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Simpson</h1>
-<h3 align="center">Experienced Node.js Developer from US | 20+ Years in Web Development</h3>
+<h3 align="center">Experienced MERN Developer from US | 20+ Years in Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamessimpson0828&label=Profile%20views&color=0e75b6&style=flat" alt="jamessimpson0828" /> </p>
 
